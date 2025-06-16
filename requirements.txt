@@ -1,0 +1,14 @@
+# Core dashboard framework
+streamlit>=1.28.0
+
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Interactive visualizations
+plotly>=5.15.0
+
+# Additional utilities (if needed for future enhancements)
+# scipy>=1.10.0  # Currently not used in dashboard
+# seaborn>=0.12.0  # For additional statistical plots
+# matplotlib>=3.7.0  # For static plots backup
